@@ -18,7 +18,7 @@
     "@blueking/user-selector": "^1.0.5-beta.2",
     "@icon-cool/bk-icon-cmdb": "^0.1.2",
     "@icon-cool/bk-icon-cmdb-colorful": "0.0.1",
-    "axios": "0.18.0",
+    "axios": "1.6.0",
     "bk-magic-vue": "2.2.2",
     "cytoscape": "3.10.0",
     "cytoscape-dagre": "2.2.2",
