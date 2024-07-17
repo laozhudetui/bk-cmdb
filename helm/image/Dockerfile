@@ -1,4 +1,4 @@
-FROM golang:1.13.0
+FROM golang:1.23rc2
 RUN apt-get update
 RUN apt-get install -y git python jq curl
 
